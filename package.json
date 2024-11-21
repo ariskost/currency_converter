@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd gui && npm install",
+    "install": "npm install && npm run install:backend && npm run install:frontend",
     "start:backend": "cd backend && node app.js",
     "start:frontend": "cd gui && npm run serve",
     "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
