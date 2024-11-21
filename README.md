@@ -52,6 +52,10 @@ This will:
 
 The app should now be accessible at [http://localhost:8080](http://localhost:8080).
 
+### Login Credentials 
+USERNAME: admin
+PASSWORD: password123
+
 ---
 
 ### Notes
