@@ -1,0 +1,100 @@
+[
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "USD",
+    "targetFullName": "United States Dollar",
+    "rate": 1.3764
+  },
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "CHF",
+    "targetFullName": "Swiss Franc",
+    "rate": 1.2079
+  },
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "GBP",
+    "targetFullName": "British Pound",
+    "rate": 0.8731
+  },
+  {
+    "base": "USD",
+    "baseFullName": "United States Dollar",
+    "target": "JPY",
+    "targetFullName": "Japanese Yen",
+    "rate": 76.72
+  },
+  {
+    "base": "CHF",
+    "baseFullName": "Swiss Franc",
+    "target": "USD",
+    "targetFullName": "United States Dollar",
+    "rate": 1.1379
+  },
+  {
+    "base": "GBP",
+    "baseFullName": "British Pound",
+    "target": "CAD",
+    "targetFullName": "Canadian Dollar",
+    "rate": 1.5648
+  },
+  {
+    "base": "USD",
+    "baseFullName": "United States Dollar",
+    "target": "CNY",
+    "targetFullName": "Chinese Yuan",
+    "rate": 6.4516
+  },
+  {
+    "base": "AUD",
+    "baseFullName": "Australian Dollar",
+    "target": "NZD",
+    "targetFullName": "New Zealand Dollar",
+    "rate": 1.0789
+  },
+  {
+    "base": "CAD",
+    "baseFullName": "Canadian Dollar",
+    "target": "INR",
+    "targetFullName": "Indian Rupee",
+    "rate": 60.1234
+  },
+  {
+    "base": "USD",
+    "baseFullName": "United States Dollar",
+    "target": "MXN",
+    "targetFullName": "Mexican Peso",
+    "rate": 20.3456
+  },
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "SEK",
+    "targetFullName": "Swedish Krona",
+    "rate": 10.3456
+  },
+  {
+    "base": "GBP",
+    "baseFullName": "British Pound",
+    "target": "AUD",
+    "targetFullName": "Australian Dollar",
+    "rate": 1.8307
+  },
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "BTC",
+    "targetFullName": "Bitcoin",
+    "rate": 0.000011
+  },
+  {
+    "base": "EUR",
+    "baseFullName": "Euro",
+    "target": "ETH",
+    "targetFullName": "Ethereum",
+    "rate": 0.00032
+  }
+]

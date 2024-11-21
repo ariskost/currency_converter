@@ -1,0 +1,17 @@
+{
+  "name": "currency_calc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && node app.js",
+    "start:frontend": "cd gui && npm run serve",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
